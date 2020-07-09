@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "New1",
       "projectName": "New1",
-      "projectPath": "C:\\Users\\user\\Documents\\UiPath\\New1\\.local",
+      "projectPath": "C:\\Users\\user\\Documents\\UiPath\\UiPath\\New1\\.local",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\UiPath\\New1\\.local"
+      "outputPath": "C:\\Users\\user\\Documents\\UiPath\\UiPath\\New1\\.local"
     },
     "frameworks": {
       "net461": {
